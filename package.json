@@ -20,6 +20,6 @@
   "devDependencies": {
     "electron": "^10.0.0",
     "mocha": "^8.2.1",
-    "spectron": "^12.0.0"
+    "spectron": "^15.0.0"
   }
 }
